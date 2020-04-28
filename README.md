@@ -4,7 +4,7 @@ These are my solutions for the **codility_** programming challenges (https://app
 
 Each notebook contains one challenge, respectively. These solutions are guaranteed to score 100% on both evaluation criteria: correctness and performance. 
 
-I have solutions for the following exercises:
+There are solutions for the following exercises:
 
 #### Lesson 1
 * BinaryGap
